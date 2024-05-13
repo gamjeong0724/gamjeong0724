@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Gamjeong, who wants to become a developer who serves as a role model for future sprouts.</h1>
+<h1 align="center">Hello, this is 4D Developer Emotions.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
