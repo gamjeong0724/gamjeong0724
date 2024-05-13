@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm this is GamJeong Lee, I want to become a developer who serves as a role model for dream trees that grow well, provides nutrients, and emits a strong scent like autumn maple leaves.</h1>
+<h1 align="center">Hi 👋, I'm this is GamJeong Lee, I want to become a developer who becomes a role model for growing sprouts.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
