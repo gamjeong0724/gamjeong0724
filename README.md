@@ -1,4 +1,4 @@
-<h1 align="center">hello. I am Lee GamJeong, a 4D developer pursuing romance.</h1>
+<h1 align="center">Hello, I am Lee Gam-jeong, a developer with a four-dimensional imagination who pursues romance.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
