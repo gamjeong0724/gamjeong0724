@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm this is GamJeong Lee, a developer who codes dreams</h1>
+<h1 align="center">Hi 👋, I'm this is GamJeong Lee, Hello, I want to become a developer who serves as a role model for dream trees that grow well, provides nutrients, and emits a strong scent like autumn maple leaves.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
