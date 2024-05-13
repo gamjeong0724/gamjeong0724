@@ -1,4 +1,4 @@
-<h1 align="center">Hello, this is 4D Developer Emotions.</h1>
+<h1 align="center">hello. These are the emotions of a 4D developer chasing romance.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
