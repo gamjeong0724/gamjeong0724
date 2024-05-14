@@ -1,9 +1,11 @@
+<!-- 프로필 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Lee%20GamJeong&fontSize=80&animation=fadeIn" />
 
 <div align="center">
   <h1>🚀 Tech Stacks 🚀</h1>
 </div>
 
+<!-- 기술 스택 -->
 ### Backend 💻
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
@@ -34,12 +36,15 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!-- GitHub 통계 및 언어 사용량 -->
 ![GamJeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamJeong0724&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamJeong0724&layout=compact&theme=radical)](https://github.com/GamJeong0724/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748)
-
+<!-- 방문자 수 카운터 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=GamJeong0724&color=blue)
 
+<!-- GitHub 프로필 레포지토리 카드 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GamJeong0724&repo=repository-name&theme=radical)](https://github.com/GamJeong0724/repository-name)
 
+<!-- Solved.ac 랭킹 및 문제 해결 상태 카드 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748)
