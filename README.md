@@ -40,4 +40,4 @@
 </div><br>
 </div>
 
-![GamJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJeong&count_private=true)
+![GamJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJeong0724&count_private=true)
