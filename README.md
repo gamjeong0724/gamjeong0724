@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamJeong0724&layout=compact&theme=radical)](https://github.com/GamJeong0724/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GamJeong0724&color=blue)
 
