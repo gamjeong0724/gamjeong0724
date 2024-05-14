@@ -34,11 +34,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GamJeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamJeong0724&show_icons=true&theme=radical)
+![GamJeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamjeong0724&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamJeong0724&layout=compact&theme=radical)](https://github.com/GamJeong0724/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamjeong0724&layout=compact&theme=radical)](https://github.com/gamjeong0724/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyj4748)](https://solved.ac/leeyj4748/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=GamJeong0724&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=gamjeong0724&color=blue)
 
