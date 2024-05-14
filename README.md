@@ -39,3 +39,5 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+![GamJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamJeong&count_private=true)
